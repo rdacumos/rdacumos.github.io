@@ -25,48 +25,23 @@
         "username": "rdacumos",
         "url": "https://www.linkedin.com/in/rovie-jay-dacumos-315182178/"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "software engineering",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
-    {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
-    }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     },
     {
