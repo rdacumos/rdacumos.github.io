@@ -64,7 +64,7 @@
       "startDate": "Fall 2016",
       "endDate": "Present",
       "gpa": "3.43",
-      "courses": [Intoduction to Computer Science I & II (ICS 111, 211) Discrete Mathematics I && II (ICS 141, 241)
+      "courses": ["Intoduction to Computer Science I & II (ICS 111, 211) Discrete Mathematics I && II (ICS 141, 241)"
       ]
     }
   ],
@@ -75,7 +75,7 @@
       "website": "https://www.hawaii.edu/cps/",
       "startDate": "October 2018",
       "endDate": "Present",
-      "summary": "I do office work for the director of the Center for Philippine Studies",
+      "summary": "I do office work for the director of the Center for Philippine Studies, work on projects for the Center for Southeast Asian Studies, and the Filipino language and literature program.",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
