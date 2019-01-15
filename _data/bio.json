@@ -59,23 +59,23 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science: General (expected Spring, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "Fall 2016",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
+      "gpa": "3.43",
+      "courses": [Intoduction to Computer Science I & II (ICS 111, 211) Discrete Mathematics I && II (ICS 141, 241)
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "UH Manoa Center for Philippine Studies",
+      "position": "Student Assistant",
+      "website": "https://www.hawaii.edu/cps/",
+      "startDate": "October 2018",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "I do office work for the director of the Center for Philippine Studies",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
