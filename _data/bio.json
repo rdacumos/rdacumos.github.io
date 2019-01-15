@@ -66,6 +66,16 @@
       "gpa": "3.43",
       "courses": ["Intoduction to Computer Science I & II (ICS 111, 211) Discrete Mathematics I && II (ICS 141, 241)"
       ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Philippine Language and Literature: Filipino (expected Spring, 2020)",
+      "studyType": "B.A.",
+      "startDate": "Fall 2016",
+      "endDate": "Present",
+      "gpa": "3.43",
+      "courses": ["Four years of language study (FIL 101 - 402), Translation Techniques (FIL 435), Other literature courses in the Indo-Pacific department"
+      ]
     }
   ],
   "work": [
@@ -77,20 +87,21 @@
       "endDate": "Present",
       "summary": "I do office work for the director of the Center for Philippine Studies, work on projects for the Center for Southeast Asian Studies, and the Filipino language and literature program.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Turrns Philippine folklore into digital storybooks through animations",
+        "Subtitles videos (English <-> Filipino)",
+        "Maintains the Filipino Program website (https://www.hawaii.edu/filipino/index.html)"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Nijiya Market",
+      "position": "Cashier",
+      "website": "",
+      "startDate": "June 2017",
+      "endDate": "August 17",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Ran cash register",
+        "Stocked the floor"
       ]
     }
   ],
