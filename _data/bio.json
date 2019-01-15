@@ -2,11 +2,11 @@
   "basics": {
     "name": "Rovie Jay Dacumos",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "",
+    "email": "rdacumos@hawaii.edu",
+    "phone": "808-673-9547",
+    "website": "https://rdacumos.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in 2020.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,13 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "rdacumos",
         "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "rdacumos",
+        "url": "https://www.linkedin.com/in/rovie-jay-dacumos-315182178/"
       },
       {
         "network": "twitter",
