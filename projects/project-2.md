@@ -2,16 +2,13 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+title: Dilim
+permalink: projects/dilim
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 04-30-2018
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Video
+summary: A video of me reciting a poem I created about depression and mental illnesses for my FIL 301 class.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
