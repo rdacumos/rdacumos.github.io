@@ -11,7 +11,7 @@ summary: I voluteered during my school breaks to help get two computer labs runn
 ---
 
 <img class="ui medium right floated rounded image" src="../images/Project-1.2.jpg">
-# <img class="ui small right floated rounded image" src="../images/Project-1.1.jpg">
+
 
 I volunteered under Parents and Children Toegether (PACT), services were offered such as open access to computer labs for residents of the housing complex, Kuhiop Park Terrace (KPT).
 
