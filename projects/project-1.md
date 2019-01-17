@@ -15,7 +15,7 @@ summary: I voluteered during my school breaks to help get two computer labs runn
   <img class="ui image" src="../images/Project-1.2.jpg">
 </div>
 
-Under Parents and Children Toegether (PACT), services were offered such as open access to computer labs for residents of the housing complex, Kuhiop Park Terrace (KPT).
+I volunteered under Parents and Children Toegether (PACT), services were offered such as open access to computer labs for residents of the housing complex, Kuhiop Park Terrace (KPT).
 
 Prior to the rennovation of the apartments, PACT's community technnology canter was located in the resource center between the two buildings. Open labs, computer skill lasses, etc. would take place in here. But since the towers has been renovated, two new computer labs (one for each tower) has opened.
 
