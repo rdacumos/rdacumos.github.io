@@ -5,10 +5,10 @@ image: images/vacay-square.png
 title: Dilim
 permalink: projects/dilim
 # All dates must be YYYY-MM-DD format!
-date: 04-30-2018
+date: 2018-04-03
 labels:
   - Video
-summary: A video of me reciting a poem I created about depression and mental illnesses for my FIL 301 (Third-Level Filipino) class.
+summary: A video of me reciting a poem I wrote about mental illnesses for my FIL 301 (Third-Level Filipino) class.
 ---
 
 <img class="ui large bottom floated rounded image" src="../images/Project-2.PNG">
