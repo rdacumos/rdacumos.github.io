@@ -21,7 +21,5 @@ Prior to the rennovation of the apartments, PACT's community technnology canter 
 
 During school vacation breaks, I was invited to take some classes and help out in getting the computerlabs up and running. I took basic computer courses, and studied the basics of computers to fammiliarize myself with what I was getting in to. I did office and cleanup work such as taking inventory, transfering computer units from tower to tower, and tidying up the labs. Starting from one tower, once we got the units together, I was in charge of imaging the computers and cloning it to other stations, installing software, testing, and other things to make sure that the computerlab would function smoothly.
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
-
 
 
