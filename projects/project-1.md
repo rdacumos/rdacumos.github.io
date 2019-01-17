@@ -5,7 +5,7 @@ image: images/Project-1.1.JPG
 title: Community Tech Center
 permalink: projects/pact
 # All dates must be YYYY-MM-DD format!
-date: 2013-06
+date: 2013-06-01
 labels:
 summary: I voluteered during my school breaks to help get two computer labs running in my apartment complex.
 ---
