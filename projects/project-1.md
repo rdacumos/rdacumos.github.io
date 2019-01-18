@@ -7,6 +7,7 @@ permalink: projects/ctcpact
 # All dates must be YYYY-MM-DD format!
 date: 2013-06-01
 labels:
+  -community service
 summary: I voluteered during my school breaks to help get two computer labs running in my apartment complex.
 ---
 
