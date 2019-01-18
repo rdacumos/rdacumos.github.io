@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/projects-2-cover.png
 title: Dilim
 permalink: projects/dilim
 # All dates must be YYYY-MM-DD format!
