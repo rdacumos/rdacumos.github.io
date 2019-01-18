@@ -17,7 +17,7 @@ summary: A video I created of stories told by the Ifialig in the mountain provin
 The Center for Southeast Asian Studies puts out teaching modules regarding Philippine folklore. This ub-ufok projects are used in Philippine Language and Literature as well as culture courses, to share old traditions of story telling, and to preserve culture of the people of Barlig. Read more about the projects <a href="http://www.cseashawaii.org/tagalog-animations/">here</a>
 
 ## Summary of the story
-The video that i fif was titled "Kopkoppati," which is about a man who takes advantage of the powers of an elderly lady. He was given two cooking utensils, which had powers to make food appear out of no where when cooking. Because of this, he left his life as a farmer and relied on his magic tools to keep him fed. But after bragging about how he no longer has to work to his friends, the tools lost power, and because he let his farm go, he had no means of sustanance. 
+The video that I did was titled "Kopkoppati," which is about a man who takes advantage of the powers of an elderly lady. He was given two cooking utensils, which had powers to make food appear out of no where when cooking. Because of this, he left his life as a farmer and relied on his magic tools to keep him fed. But after bragging about how he no longer has to work to his friends, the tools lost power, and because he let his farm go, he had no means of sustanance. 
 
 Moral of the story, work for what you want, don't find the easy way out, and be humble.
 
