@@ -24,7 +24,7 @@ But I feel like thats how learning a new programming language goes. You learn th
 Personally, I like it. The first language that I learned was the basics of Python. When I first did my JavScript lessons, it reminded me alot of that, just beacuse everything felt easier to learn. It seems like an easy language to learn, and seems to be much simpler than Java or C. What I am curious about however is if they are all capable of the same things. So far, we only learned the basics and do not know what else JavaScript has to offer us in terms of software engineering. 
 
 
-## Workout of the Day a.k.a. Panic!
+## Workout of the Day a.k.a. Panic of the Day!
 
 Which is what I tend ot do when I get thrown into unfammiliar situations. I was never given a situation where I was supposed to code on the spot without prior knowledge on what it was going to be. Most of the times, I am given a problem before hand and I have time to think on my own to figure out how to translate a solution written in english to an program.
 
