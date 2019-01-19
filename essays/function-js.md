@@ -20,3 +20,5 @@ Which is what I tend ot do when I get thrown into unfammiliar situations. I was 
 Q: How do comfort a JavaScript bug? A: You console it.
 <footer>Someone on the internet</footer>
 </blockquote>
+
+And this is what I did to help sole my problems. With ________ I may have overlooked a line of code that was important in the success of the code. One example was when I wrote a while loop withh the variable in the conditional acting as a stopping point once it got too high. The problem was that every time I ran it, it would spit out errors at me and I had no idea why. To see where my code was went wrong I printed things to the console to see where I was messing up, and lo and behold, found that I was in an infinite loop since I did not increment my variables to exit the loop.
